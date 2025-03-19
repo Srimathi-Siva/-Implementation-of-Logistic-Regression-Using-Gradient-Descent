@@ -19,8 +19,8 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: RANJANI A
-RegisterNumber:  212223230170
+Developed by:SRI MATHI S
+RegisterNumber:  212224230272
 */
 
 
